@@ -1,4 +1,4 @@
-<img src="king.jpeg" width="Michael Scott" width="100%" />
+<img src="king.jpeg" width="Michael Scott" width="100%" height="20%" />
 
 # Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${hultmanoskar}.${hultmanoskar})
 ## Currently studying to become a mobile dev. 
