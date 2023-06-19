@@ -1,7 +1,7 @@
 <img src="king.jpeg" width="Michael Scott" width="100%" height="200px" />
 
-# Hi!🤘  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${hultmanoskar}.${hultmanoskar})
-## Currently studying to become a mobile dev. 
+# Hi!🤘
+## Junior mobile dev  
 ### Here you can see my journey from zero to (someday) hero 😎
 
 
