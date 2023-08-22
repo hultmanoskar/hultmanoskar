@@ -10,7 +10,7 @@
 - 📫 Call me, beep me, if ya wanna reach me: [LinkedIn](https://www.linkedin.com/in/oskar-hultman/)
   
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hultmanoskar)](https://git.io/awesome-stats-card)
- <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hultmanoskar&theme=theme" /> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hultmanoskar&show_icons=true&theme=transparent) <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hultmanoskar&theme=theme" /> 
 
+ 
 
