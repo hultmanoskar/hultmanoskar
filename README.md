@@ -5,7 +5,7 @@
 ### Here you can see my journey from zero to (someday) hero 😎
 
 
-- 🔭 I’m currently working on different projects in React Native. Current project: [Tinder Clone](https://github.com/hultmanoskar/TinderClone) 
+- 🔭 I’m currently working on different projects in React Native. Current project: [Tinder Clone](https://github.com/hultmanoskar/TinderClone) and [SnusFri](https://github.com/hultmanoskar/SnusFri)
 
 - 📫 Call me, beep me, if ya wanna reach me: [LinkedIn](https://www.linkedin.com/in/oskar-hultman/)
   
